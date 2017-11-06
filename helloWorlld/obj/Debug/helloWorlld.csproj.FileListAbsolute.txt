@@ -1,0 +1,16 @@
+c:\users\akbar\documents\visual studio 2015\Projects\helloWorlld\helloWorlld\obj\Debug\helloWorlld.csprojResolveAssemblyReference.cache
+c:\users\akbar\documents\visual studio 2015\Projects\helloWorlld\helloWorlld\obj\Debug\helloWorlld.Form2.resources
+c:\users\akbar\documents\visual studio 2015\Projects\helloWorlld\helloWorlld\obj\Debug\helloWorlld.Main.resources
+c:\users\akbar\documents\visual studio 2015\Projects\helloWorlld\helloWorlld\obj\Debug\helloWorlld.Properties.Resources.resources
+c:\users\akbar\documents\visual studio 2015\Projects\helloWorlld\helloWorlld\obj\Debug\helloWorlld.csproj.GenerateResource.Cache
+c:\users\akbar\documents\visual studio 2015\Projects\helloWorlld\helloWorlld\obj\Debug\helloWorlld.exe
+c:\users\akbar\documents\visual studio 2015\Projects\helloWorlld\helloWorlld\obj\Debug\helloWorlld.pdb
+c:\users\akbar\documents\visual studio 2015\Projects\helloWorlld\helloWorlld\bin\Debug\helloWorlld.exe.config
+C:\Users\Akbar\Documents\Visual Studio 2015\Projects\helloWorlld\helloWorlld\bin\Debug\helloWorlld.exe.manifest
+C:\Users\Akbar\Documents\Visual Studio 2015\Projects\helloWorlld\helloWorlld\bin\Debug\helloWorlld.application
+C:\Users\Akbar\Documents\Visual Studio 2015\Projects\helloWorlld\helloWorlld\bin\Debug\helloWorlld.exe
+C:\Users\Akbar\Documents\Visual Studio 2015\Projects\helloWorlld\helloWorlld\bin\Debug\helloWorlld.pdb
+C:\Users\Akbar\Documents\Visual Studio 2015\Projects\helloWorlld\helloWorlld\bin\Debug\MaterialSkin.dll
+C:\Users\Akbar\Documents\Visual Studio 2015\Projects\helloWorlld\helloWorlld\obj\Debug\helloWorlld.exe.manifest
+C:\Users\Akbar\Documents\Visual Studio 2015\Projects\helloWorlld\helloWorlld\obj\Debug\helloWorlld.application
+C:\Users\Akbar\Documents\Visual Studio 2015\Projects\helloWorlld\helloWorlld\obj\Debug\helloWorlld.Form1.resources
